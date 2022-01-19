@@ -23,7 +23,7 @@ namespace akeesey_DataEncodingInCSharp
             Console.WriteLine($"The integer {toConvert} cast to a char is '{asChar}'");
 
             char b;
-            b = (char)('Z' + 3);
+            b = (char)('$' + 3);
             Console.WriteLine($"'A' + 1 = '{b}'");
         }
     }
